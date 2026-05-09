@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-*
+
+# Large data files - NU le punem în Git
+*.pkl
+*.csv
+*.npy
+*.h5
+*.hdf5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
