@@ -31,7 +31,7 @@ Pentru a lansa aplicația, rulați scriptul principal:
 python nume_fisier.py
 ```
 
-### 🔄 Fluxul de Lucru
+### Fluxul de Lucru
 
 **1. Prima Rulare (Inițializare):**
 * Sistemul caută setul de date: `Final_Augmented_dataset_Diseases_and_Symptoms.csv`.
